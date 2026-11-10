@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mattn/go-colorable/commit/56c5db567780daeef4a4ffbb2c14d7d4b6b94b9b",
       "git:hexsha": "56c5db567780daeef4a4ffbb2c14d7d4b6b94b9b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.16"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.16",
+      "repolex:parsedAt": "2026-11-10T02:23:21.987140+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mattn/go-colorable/commit/bc69d6cebca8dd5675346a34a1c545b67dc74d5e",
