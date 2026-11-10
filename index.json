@@ -1,0 +1,11 @@
+{
+  "org": "mattn",
+  "repo": "go-colorable",
+  "versions": [
+    {
+      "commit": "56c5db567780daeef4a4ffbb2c14d7d4b6b94b9b",
+      "tag": "v0.1.16",
+      "parsed_at": "2026-11-10T02:23:21.987650+00:00"
+    }
+  ]
+}
