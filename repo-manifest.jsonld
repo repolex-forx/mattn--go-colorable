@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mattn/go-colorable/commit/56c5db567780daeef4a4ffbb2c14d7d4b6b94b9b",
       "git:hexsha": "56c5db567780daeef4a4ffbb2c14d7d4b6b94b9b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.16"
     },
     {
